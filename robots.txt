@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://viciouslabs.github.io/sitemap.xml
+Sitemap: https://www.nononsense.pro/sitemap.xml
